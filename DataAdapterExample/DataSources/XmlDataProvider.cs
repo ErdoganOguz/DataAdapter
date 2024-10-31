@@ -4,7 +4,7 @@
     {
         public string GetXmlData()
         {
-            return "<Employee><Name>Oğuz ERDOĞAN</Name><Position>Software Developer</Position></Employee>";
+            return "<Employee><Name>Jhon Doe</Name><Position>Software Developer</Position></Employee>";
         }
     }
 }
